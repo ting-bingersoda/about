@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Ting Mei / Site Title"
 title_separator          : "-"
 name                     : &name "Ting Mei"
-description              : &description "baby shark du du du du du"
+description              : &description "portfolio of work"
 url                      : https://ting-bingersoda.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/about" # the subpath of your site, e.g. "/blog"
 repository               : "about/ting-bingersoda.github.io"
@@ -23,21 +23,21 @@ repository               : "about/ting-bingersoda.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ting Mei"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hello!"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : # "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tmei@ualberta.ca" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
