@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-======
 Hello, I'm Ting Mei. I am a student in Digital Humanities, exloring the intersection of play, expression and meaning. 
 
 I believe games represent one of the most powerful expressive mediums of our time. Like writing or drawing, games serve as a channel to deliver thoughts and ideas, but with a unique capacity to combine multiple forms of expression: music, text, visuals, and—most importantly—interactivity.
