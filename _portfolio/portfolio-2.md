@@ -1,6 +1,6 @@
 ---
 title: "You are a tiny germ in the fridge"
-excerpt: "An adventure where a germ searches for food in the fridge! <br/><img src='/images/germ.png'>"
+excerpt: "An adventure where a germ searches for food in the fridge! <br/> <img src='https://ting-bingersoda.github.io/about/images/germ.png'>"
 collection: portfolio
 ---
 
