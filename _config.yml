@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ting Mei's Personal Website"
+title                    : "Ting Mei's Portfolio Website"
 title_separator          : "-"
 name                     : &name "Ting Mei"
 description              : &description "portfolio of work"
@@ -25,8 +25,8 @@ author:
   avatar           : "profile.JPG"
   name             : "Ting Mei (left)"
   pronouns         : "she/her"  
-  bio              : "Digital Humanities Student"
-  location         : "Alberta, Canada"
+  bio              : "UAlberta | Digital Humanities | Editor | Writer | Game Maker"
+  location         : "Edmonton, AB"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "tmei@ualberta.ca" 
@@ -214,15 +214,15 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  more-information:
     output: true
     permalink: /:collection/:path/
 
