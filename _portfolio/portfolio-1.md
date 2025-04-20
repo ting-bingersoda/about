@@ -1,9 +1,9 @@
 ---
 title: "Goose Chaos in Pandemic"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://i.pinimg.com/736x/81/61/f2/8161f28258d90b01c12b9b1ebfd20f35.jpg'>"
+excerpt: "A rebellious goose causing trouble during the pandemic<br/><img src='https://i.pinimg.com/736x/81/61/f2/8161f28258d90b01c12b9b1ebfd20f35.jpg' width='500'>
 collection: portfolio
 ---
-<img src="https://i.pinimg.com/736x/81/61/f2/8161f28258d90b01c12b9b1ebfd20f35.jpg" width="300"><br>
+<img src="https://i.pinimg.com/736x/81/61/f2/8161f28258d90b01c12b9b1ebfd20f35.jpg" width="500"><br>
 In this little game, you play as a rebellious goose causing trouble during the pandemic in China. I got the idea from  <a href="https://goose.game/" target="_blank">"Untitled Goose Game"</a> - I really love how the goose creates chaos and makes everyone laugh!
 
 I had this idea when we were still under strict COVID controls in China. My friends and I would often joke around saying, "If I were a goose, what would I do to break free from all these restrictions?" The first thing that came to mind was messing up the daily nucleic acid testing sites (yes, we had to get tested EVERY single day back then!).
