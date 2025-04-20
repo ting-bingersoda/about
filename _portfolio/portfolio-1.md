@@ -1,6 +1,6 @@
 ---
 title: "Goose Chaos in Pandemic"
-excerpt: "A rebellious goose causing trouble during the pandemic<br/><img src='https://i.pinimg.com/736x/81/61/f2/8161f28258d90b01c12b9b1ebfd20f35.jpg' width='500'>
+excerpt: "A rebellious goose causing trouble during the pandemic<br/><img src='https://i.pinimg.com/736x/81/61/f2/8161f28258d90b01c12b9b1ebfd20f35.jpg' width='500'>"
 collection: portfolio
 ---
 <img src="https://i.pinimg.com/736x/81/61/f2/8161f28258d90b01c12b9b1ebfd20f35.jpg" width="500"><br>
