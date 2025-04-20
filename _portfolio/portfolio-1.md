@@ -12,7 +12,9 @@ We came up with tons of funny scenarios, though I couldn't fit all of them into 
 
 If I get the chance in the future, I'd love to keep improving this game and add more of our ideas!
 
+<p>
 Click <a href="https://ting-bingersoda.github.io/about/goosechaosinpandemic.html" target="_blank">here</a> to play!
+</p>
 
 ### Background Music
 Sneaky Snitch by Kevin MacLeod | https://incompetech.com/

@@ -9,5 +9,6 @@ collection: portfolio
 This is a small adventure game made by <a href="https://bitsy.org" target="_blank">Bitsy</a>
 
 You are a tiny germ and the fridge is your playground. Find food and survive!
-
+<p>
 Click <a href = "https://ting-bingersoda.github.io/about/germ.html" target = "blank"> here </a> to play!
+</p>
